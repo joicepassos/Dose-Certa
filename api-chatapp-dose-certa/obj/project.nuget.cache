@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FU4PSrui27+5he3nNcw+l0ZJDtwqYb451vPVyNR7wTeLitZr29mcWMEp3TzDHBVoFlMHn0joWQ9BgJpIrIb3Tw==",
+  "dgSpecHash": "qlQuH2GhX7zrTSifLn/NNjRvq2xro6sTK6tL4QbiDvRY/N+8fbQG8/7JzhTJYzhcgR+4KbYezAY+uQzcWIw4tQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\api-chatapp-dose-certa.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\1.1.0\\microsoft.aspnetcore.signalr.protocols.json.1.1.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.aspnetcore.websockets\\2.2.0\\microsoft.aspnetcore.websockets.2.2.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\joice\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
@@ -35,7 +36,12 @@
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\joice\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\joice\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\joice\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\joice\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\joice\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\joice\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",

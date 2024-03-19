@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\api-chatapp-dose-certa.props" />
+</Project>

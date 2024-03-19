@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\api-chatapp-dose-certa.csproj": {}
+    "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\ChatApp\\ChatApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\api-chatapp-dose-certa.csproj": {
+    "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\ChatApp\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\api-chatapp-dose-certa.csproj",
-        "projectName": "api-chatapp-dose-certa",
-        "projectPath": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\api-chatapp-dose-certa.csproj",
+        "projectUniqueName": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\ChatApp\\ChatApp.csproj",
+        "projectName": "ChatApp",
+        "projectPath": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\ChatApp\\ChatApp.csproj",
         "packagesPath": "C:\\Users\\joice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\obj\\",
+        "outputPath": "C:\\Users\\joice\\OneDrive\\Documentos\\Dose-Certa\\api-chatapp-dose-certa\\ChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joice\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,16 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.SignalR": {
-              "target": "Package",
-              "version": "[1.1.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
