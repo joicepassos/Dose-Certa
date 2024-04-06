@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("api-chatapp-dose-certa")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ChatApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d81f6729580c09a324d151afa2dddc851f8b01")]
-[assembly: System.Reflection.AssemblyProductAttribute("api-chatapp-dose-certa")]
-[assembly: System.Reflection.AssemblyTitleAttribute("api-chatapp-dose-certa")]
+[assembly: System.Reflection.AssemblyProductAttribute("ChatApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ChatApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

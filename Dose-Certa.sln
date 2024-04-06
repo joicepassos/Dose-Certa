@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api-chatapp-dose-certa", "api-chatapp-dose-certa\api-chatapp-dose-certa.csproj", "{9FDEA7EF-F674-4602-B1C8-1413C63EA3AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api-chatapp-dose-certa (1)", "api-chatapp-dose-certa", "{B82AB8B1-27B2-4CF8-B05D-8896728E7A4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "api-chatapp-dose-certa\ChatApp\ChatApp.csproj", "{1D1EF056-1070-471A-89D2-E384472A6B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDEA7EF-F674-4602-B1C8-1413C63EA3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDEA7EF-F674-4602-B1C8-1413C63EA3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDEA7EF-F674-4602-B1C8-1413C63EA3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDEA7EF-F674-4602-B1C8-1413C63EA3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1EF056-1070-471A-89D2-E384472A6B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1EF056-1070-471A-89D2-E384472A6B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1EF056-1070-471A-89D2-E384472A6B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1EF056-1070-471A-89D2-E384472A6B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D1EF056-1070-471A-89D2-E384472A6B4A} = {B82AB8B1-27B2-4CF8-B05D-8896728E7A4F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83FB58F5-A979-430B-B26F-AC526D60327A}
+	EndGlobalSection
+EndGlobal
